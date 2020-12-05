@@ -1,1 +1,1 @@
-# Name-Entity-Recognition-NER-
+# Named-Entity-Recognition-NER-
